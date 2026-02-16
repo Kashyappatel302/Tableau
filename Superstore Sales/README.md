@@ -2,7 +2,7 @@
 An interactive Tableau dashboard analyzing retail sales performance for a US-based superstore. The project explores 10,000+ transactions to uncover regional trends, product profitability patterns, and customer segment behavior, delivering actionable business recommendations.**
 
 **Dashboard Preview**
-![Dashboard Screenshot](images/dashboard_preview.png)
+https://public.tableau.com/views/SuperstoreSales_17712547944680/SuperstoreSalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 **Objective**
 Analyze sales, profit, and discount data for a retail superstore to identify top-performing and underperforming regions, discover which product sub-categories drive profit versus erode margins, detect seasonal trends in revenue, understand customer segment contribution to overall business, and deliver data-driven recommendations to improve profitability.
