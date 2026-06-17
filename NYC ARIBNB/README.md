@@ -2,7 +2,7 @@ NYC Airbnb Listings Analysis
 An interactive Tableau dashboard analyzing 49,000+ Airbnb listings across New York City's five boroughs. The project explores pricing patterns, geographic 
 distribution, room type composition, seasonal demand, and host concentration to surface actionable insights for hosts, investors, and city regulators.
 
-Dashboard Preview:- https://public.tableau.com/views/NYCAIRBNBLISTINGANALYSIS/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Dashboard Preview:- https://public.tableau.com/views/NYCAIRBNB2019_17802013460780/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Objective
 Analyze NYC Airbnb data to understand how listing prices, room types, availability, and booking activity vary across boroughs and neighborhoods, identify 
